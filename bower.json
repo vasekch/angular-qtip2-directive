@@ -3,7 +3,7 @@
   "version": "0.1.2",
   "main": "qtip2.js",
   "dependencies": {
-    "jquery": "~1.11.1",
-    "qtip2": "~2.2.0"
+    "jquery": "^2.1.0",
+    "qtip2": "^2.2.0"
   }
 }
