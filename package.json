@@ -5,16 +5,16 @@
   "main": "qtip2.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/romainberger/angular-qtip2-directive.git"
+    "url": "git+https://github.com/vasekch/angular-qtip2-directive.git"
   },
   "author": "Romain Berger <romain@romainberger.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/romainberger/angular-qtip2-directive/issues"
+    "url": "https://github.com/vasekch/angular-qtip2-directive/issues"
   },
-  "homepage": "https://github.com/romainberger/angular-qtip2-directive",
+  "homepage": "https://github.com/vasekch/angular-qtip2-directive",
   "dependencies": {
-    "jquery": "~2.0.3",
-    "qtip2": "~2.2.0"
+    "jquery": "^2.1.0",
+    "qtip2": "^2.2.0"
   }
 }
